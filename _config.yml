@@ -1,0 +1,47 @@
+# Basic Information
+title: Imane El Abid
+position: PhD candidate
+affiliation: Mohammed VI Polytechnic University (UM6P)
+affiliation_link: https://um6p.ma/
+affiliation_logo: ./assets/img/logo.png
+email: imane (dot) elabid (at) um6p (dot) ma
+
+# Search Engine Optimization (SEO)
+keywords: ImaneElabid, Imane El Abid, Imane elabid
+#canonical: https://minimal-light-theme-mpi-inf.yliu.me/
+#description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+
+# The option is used to enable the MPI Informatics template.
+enable_mpi_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+google_scholar: https://scholar.google.com/citations?user=SxrsqGMAAAAJ&hl=en/
+cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/ImaneElabid/
+linkedin: https://www.linkedin.com/in/imane-el-abid/
+X: https://twitter.com/IMANEELABID1/
+
+# Images
+avatar: ./assets/img/Me.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.ico
+
+# Footnotes
+enable_footnote: true
+
+# General Data Protection Regulation (GDPR) information
+# If you don't need to add the GDPR information, you may remove the following lines.
+# imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/username
+# data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/username?lang=en
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME

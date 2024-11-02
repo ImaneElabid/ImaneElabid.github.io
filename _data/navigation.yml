@@ -1,0 +1,20 @@
+main:
+
+  - title: "Contact"
+    url: ./#contact
+    right: true
+
+  - title: "Miscellaneous"
+    url: ./#services
+
+  - title: "Events"
+    url: ./#Events
+
+  # - title: "Talks"
+  #   url: ./#talks
+
+  - title: "Publications"
+    url: ./#publications
+
+  - title: "Bio"
+    url: ./#Bio
