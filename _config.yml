@@ -32,6 +32,8 @@ favicon_dark: ./assets/img/favicon-dark.ico
 # Footnotes
 enable_footnote: true
 
+remote_theme: https://github.com/yaoyao-liu/minimal-light
+
 # General Data Protection Regulation (GDPR) information
 # If you don't need to add the GDPR information, you may remove the following lines.
 # imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/username
