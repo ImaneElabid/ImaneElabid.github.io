@@ -23,9 +23,9 @@ main:
     authors: <strong>Imane El Abid</strong>, Yahya Benkaouz
     conference_short: IEEE DAPPs
     conference: IEEE International Conference on Decentralized Applications and Infrastructures <strong>(IEEE DAPPS)</strong>, 2024.
+    code: https://github.com/ImaneElabid/Redactable-blockchains
     bibtex: https://dblp.org/rec/conf/dappcon/AbidB24.html?view=bibtex
     image: ./assets/img/RB.png
-    code: https://github.com/ImaneElabid/Redactable-blockchains
     page: ./assets/slides/Dapps.pdf
 
   - title: 'PocketChain: Redefining Blockchain Integration With Resource-Constrained Devices'
