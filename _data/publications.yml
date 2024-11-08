@@ -6,8 +6,8 @@ main:
     conference: IEEE International Conference on Blockchain and Cryptocurrency <strong>(ICBC)</strong>, 2021.
     pdf:  https://www.researchgate.net/profile/Imane-El-Abid/publication/352724888_LighTx_a_lightweight_transactions_transfer_system/links/64e0009f14f8d173380a65fc/LighTx-a-lightweight-transactions-transfer-system.pdf
     bibtex: https://dblp.org/rec/conf/icbc2/AbidB21.html?view=bibtex
-    image: ./assets/img/brb.png
-    page: https://ieeexplore.ieee.org/document/9461134
+    image: ./assets/img/PoB.png
+    page: ./assets/slides/ICBC.pdf
 
   - title: 'LighTx: A Lightweight Proof-of-Bandwidth Transactions Transfer System'
     authors: <strong>Imane El Abid</strong>, Yahya Benkaouz, Ahmed Khoumsi
@@ -17,7 +17,7 @@ main:
     code: https://github.com/ImaneElabid/LighTx
     bibtex: https://dblp.org/rec/conf/netys/AbidBK21.html?view=bibtex
     image:  ./assets/img/PoB.png
-    page: https://link.springer.com/chapter/10.1007/978-3-030-91014-3_10
+    page: ./assets/slides/Netys.pdf
 
   - title: 'A Comparative Analysis of Blockchain Redaction Techniques.'
     authors: <strong>Imane El Abid</strong>, Yahya Benkaouz
@@ -25,7 +25,7 @@ main:
     conference: IEEE International Conference on Decentralized Applications and Infrastructures <strong>(IEEE DAPPS)</strong>, 2024.
     image: ./assets/img/RB.png
     code: https://github.com/ImaneElabid/Redactable-blockchains
-    page: https://github.com/ImaneElabid/Redactable-blockchains
+    page: ./assets/slides/Dapps.pdf
 
   - title: 'PocketChain: Redefining Blockchain Integration With Resource-Constrained Devices'
     authors: <strong>Imane El Abid</strong>, Karim Boubouh, Yahya Benkaouz
