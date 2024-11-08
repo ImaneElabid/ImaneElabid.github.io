@@ -19,11 +19,11 @@ main:
     image:  ./assets/img/PoB.png
     page: ./assets/slides/Netys.pdf
 
-  - title: 'A Comparative Analysis of Blockchain Redaction Techniques.'
+  - title: 'A Comparative Analysis of Blockchain Redaction Techniques'
     authors: <strong>Imane El Abid</strong>, Yahya Benkaouz
     conference_short: IEEE DAPPs
     conference: IEEE International Conference on Decentralized Applications and Infrastructures <strong>(IEEE DAPPS)</strong>, 2024.
-    bibtex: https://dblp.org/rec/conf/dappcon/AbidB24.html
+    bibtex: https://dblp.org/rec/conf/dappcon/AbidB24.html?view=bibtex
     image: ./assets/img/RB.png
     code: https://github.com/ImaneElabid/Redactable-blockchains
     page: ./assets/slides/Dapps.pdf
