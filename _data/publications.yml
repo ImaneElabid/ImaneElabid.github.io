@@ -6,7 +6,7 @@ main:
     conference: IEEE International Conference on Blockchain and Cryptocurrency <strong>(ICBC)</strong>, 2021.
     pdf:  https://www.researchgate.net/profile/Imane-El-Abid/publication/352724888_LighTx_a_lightweight_transactions_transfer_system/links/64e0009f14f8d173380a65fc/LighTx-a-lightweight-transactions-transfer-system.pdf
     bibtex: https://dblp.org/rec/conf/icbc2/AbidB21.html?view=bibtex
-    image: ./assets/img/PoB.png
+    image: ./assets/img/brb.png
     page: ./assets/slides/ICBC.pdf
 
   - title: 'LighTx: A Lightweight Proof-of-Bandwidth Transactions Transfer System'
