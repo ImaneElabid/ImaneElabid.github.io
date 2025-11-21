@@ -36,9 +36,3 @@ main:
     image: ./assets/img/PC.png
     code: https://github.com/ImaneElabid/Pocketchain
     page: https://www.sciencedirect.com/science/article/pii/S0167739X25004169
-
-- title: 'Beyond Immutability: A Comprehensive Review of Redactable Blockchain Systems'
-  authors: <strong>Imane El Abid</strong>, Karim Boubouh, Yahya Benkaouz
-  conference_short: Preprint
-  Abstract: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5718947
-  image: ./assets/img/RBC.png
