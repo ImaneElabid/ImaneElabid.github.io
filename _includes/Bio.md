@@ -13,6 +13,6 @@ As a forward-thinking scholar, I am inspired to contribute to the blockchain eco
 </p>
 
 <h2 id="Interests" style="margin: 40px 0px 10px;">Research Interests</h2>
-- **Distributed Computing:** Scalable algorithms, Systems efficiency, fault tolerance.
+- **Distributed Systems:** Scalable algorithms, Systems efficiency, fault tolerance.
 - **Blockchain Technology:** Consensus, privacy-preserving solutions, decentralized applications.
 - **Peer-to-peer Paradigms:** Trust assessment,  reputation modeling, decentralized trust frameworks.
