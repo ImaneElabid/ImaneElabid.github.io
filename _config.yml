@@ -1,10 +1,14 @@
+repository: test/test-repo
+github:
+  repository_name: test-repo
+  owner_name: test
 # Basic Information
 title: Imane El Abid
 position: PhD candidate
 affiliation: Mohammed VI Polytechnic University (UM6P)
 affiliation_link: https://um6p.ma/
 affiliation_logo: ./assets/img/logo.png
-email: imane (dot) elabid (at) um6p (dot) ma
+email: imaneelabid@gmail.com
 
 # Search Engine Optimization (SEO)
 keywords: ImaneElabid, Imane El Abid, Imane elabid
@@ -19,7 +23,7 @@ enable_last_update: false
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=SxrsqGMAAAAJ&hl=en/
-cv_link: assets/files/cv.pdf
+cv_link: ./assets/files/cv.pdf
 github_link: https://github.com/ImaneElabid/
 linkedin: https://www.linkedin.com/in/imane-el-abid/
 X: https://twitter.com/IMANEELABID1/

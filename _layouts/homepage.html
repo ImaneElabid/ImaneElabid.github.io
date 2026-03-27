@@ -4,6 +4,9 @@
     <title>{{ site.title }}'s Homepage</title>
 
     <meta charset="utf-8" />
+    <script>
+      (function(){try{var t=localStorage.getItem('site-theme');if(t==='dark')document.documentElement.setAttribute('data-theme','dark');}catch(e){}})();
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="description" content="{{ site.title }}">
     <meta name="keywords" content="{{ site.keywords }}">
@@ -35,10 +38,11 @@
     <link rel="manifest" href="/site.webmanifest">
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="theme-color" content="#fffef7">
 
 
 
+    <script src="./assets/js/theme-toggle.js" defer></script>
     <script src="./assets/js/github-stars.js"></script>
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
@@ -76,6 +80,11 @@
       {% include navigation.md %}
       </div>
 
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle light or dark theme" aria-pressed="false" title="Light / dark mode">
+        <i class="fa-solid fa-moon theme-icon-light" aria-hidden="true"></i>
+        <i class="fa-solid fa-sun theme-icon-dark" aria-hidden="true"></i>
+      </button>
+
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
       </a>
@@ -85,8 +94,8 @@
     <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
     <script>addBackToTop({
       diameter: 50,
-      backgroundColor: '#002D72',
-      textColor: '#f2f2f2'
+      backgroundColor: '#5c4a42',
+      textColor: '#fffef7'
     })</script>
 
     <div class="wrapper">
@@ -169,7 +178,7 @@
       {% endif %}
 
       {% if site.footnote %}
-      <div style="font: 12px/1.2 Crimson Pro, serif">
+      <div style="font: 12px/1.4 'DM Sans', system-ui, sans-serif">
         <br>
         <a href="{{ site.footnote_link }}" rel="noopener">{{ site.footnote }}</a>
       </div>
@@ -184,7 +193,7 @@
 
       </section>
       <footer>
-        <div style="font: 12px/1.2 Crimson Pro, serif">
+        <div style="font: 12px/1.4 'DM Sans', system-ui, sans-serif">
         <p>
         <small>
         {% if site.imprint %}

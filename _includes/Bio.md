@@ -8,7 +8,7 @@ As a forward-thinking scholar, I am inspired to contribute to the blockchain eco
 <br>
 <p align="justify">
 <span style="font-style: italic;">
-    <strong style="color:#042c74; font-weight:600">I am currently looking for post-doctoral positions that align with my expertise in Blockchain and Distributed Systems. Please feel free to contact me if you have opportunities in these fields. I am also enthusiastic about sharing insights from my research through talks in related seminars. Please do not hesitate to contact me if you're interested in collaboration or engaging discussions on these subjects.</strong>
+    <strong style="color:#4a3328; font-weight:600">I am currently looking for post-doctoral positions that align with my expertise in Blockchain and Distributed Systems. Please feel free to contact me if you have opportunities in these fields. I am also enthusiastic about sharing insights from my research through talks in related seminars. Please do not hesitate to contact me if you're interested in collaboration or engaging discussions on these subjects.</strong>
     </span>
 </p>
 

@@ -1,6 +1,6 @@
-/* Add a black background color to the top navigation */
+/* Top banner */
 .topnav {
-    background-color: #002D72;
+    background-color: #5c4a42;
     overflow: hidden;
 	position:fixed;
 	z-index:999;
@@ -16,6 +16,38 @@
     display: none;
 }
 
+  /* Light / dark theme toggle */
+  .topnav .theme-toggle {
+    float: right;
+    background: transparent;
+    border: none;
+    color: #fffef7;
+    cursor: pointer;
+    padding: 10px 12px;
+    font-size: 1.1rem;
+    line-height: 1;
+    margin-right: 4px;
+    border-radius: 6px;
+    vertical-align: middle;
+  }
+
+  .topnav .theme-toggle:hover {
+    background-color: #D8A48F;
+    color: #1f1b18;
+  }
+
+  .topnav .theme-toggle .theme-icon-dark {
+    display: none;
+  }
+
+  html[data-theme="dark"] .topnav .theme-toggle .theme-icon-light {
+    display: none;
+  }
+
+  html[data-theme="dark"] .topnav .theme-toggle .theme-icon-dark {
+    display: inline-block;
+  }
+
   .topnav img {
     margin-bottom:-16.5pt;
     margin-top:-12.5pt;
@@ -25,7 +57,7 @@
   /* Style the links inside the navigation bar */
   .topnav a.normal {
     float: right;
-    color: #f2f2f2;
+    color: #fffef7;
     text-align: center;
     padding: 10px 9px;
     text-decoration: none;
@@ -34,8 +66,8 @@
 
   /* Change the color of links on hover */
   .topnav a.normal:hover {
-    background-color: #e43904;
-    color: #f2f2f2;
+    background-color: #D8A48F;
+    color: #1f1b18;
   }
 
   /* Add a color to the active/current link */
@@ -128,7 +160,7 @@
       }
 
       .topnav a.normal {
-        color: white;
+        color: #fffef7;
         float: none;
         padding: 14px 16px;
         text-decoration: none;
@@ -137,7 +169,7 @@
       }
 
       .topnav a.icon {
-        color: white;
+        color: #fffef7;
         display: block;
         padding: 10px 16px;
         font-size: 17px;
@@ -148,8 +180,16 @@
         margin-right:5%;
       }
 
+      .topnav .theme-toggle {
+        position: absolute;
+        right: calc(5% + 44px);
+        top: 0;
+        margin-right: 0;
+        z-index: 1000;
+      }
+
       .topnav a.right {
-        color: white;
+        color: #fffef7;
         float: none;
         padding: 14px 16px;
         text-decoration: none;

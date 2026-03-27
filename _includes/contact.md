@@ -7,6 +7,6 @@
 <br /> -->
 <strong>Office Location:</strong> Mohammed VI Polytechnic University, Benguerir, Morocco.
 <br />
-<strong>Email:</strong> <email>imane (dot) elabid (at) um6p (dot) ma</email>
+<strong>Email:</strong> <email>imaneelabid@gmail.com</email>
 <br />
-<strong>Phone:</strong> (+212) 623386948</p>
+<strong>Phone:</strong> (+212) 623 386 948</p>
