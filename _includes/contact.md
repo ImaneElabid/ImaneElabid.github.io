@@ -9,4 +9,4 @@
 <br />
 <strong>Email:</strong> <email>imane (dot) elabid (at) um6p (dot) ma</email>
 <br />
-<strong>Phone:</strong> (+212) 623386946</p>
+<strong>Phone:</strong> (+212) 623386948</p>
