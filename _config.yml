@@ -4,10 +4,10 @@ github:
   owner_name: test
 # Basic Information
 title: Imane El Abid
-position: PhD candidate
+position: Researcher in Distributed Systems and Blockchain Technologies
 affiliation: Mohammed VI Polytechnic University (UM6P)
 affiliation_link: https://um6p.ma/
-affiliation_logo: ./assets/img/logo.png
+affiliation_logo: /assets/img/logo.png
 email: imaneelabid@gmail.com
 
 # Search Engine Optimization (SEO)
@@ -23,15 +23,15 @@ enable_last_update: false
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=SxrsqGMAAAAJ&hl=en/
-cv_link: ./assets/files/cv.pdf
+cv_link: /assets/files/CV.pdf
 github_link: https://github.com/ImaneElabid/
 linkedin: https://www.linkedin.com/in/imane-el-abid/
 X: https://twitter.com/IMANEELABID1/
 
 # Images
-avatar: ./assets/img/Me.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.ico
+avatar: /assets/img/Me.jpg
+favicon: /assets/img/favicon.png
+favicon_dark: /assets/img/favicon-dark.ico
 
 # Footnotes
 enable_footnote: true

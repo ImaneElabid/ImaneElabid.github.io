@@ -5,16 +5,19 @@ main:
     right: true
 
   - title: "Miscellaneous"
-    url: ./#services
+    url: /#services
 
   - title: "Events"
-    url: ./#Events
+    url: /#Events
 
   # - title: "Talks"
   #   url: ./#talks
 
+  - title: "Dissertation"
+    url: /dissertation/
+
   - title: "Publications"
-    url: ./#publications
+    url: /#publications
 
   - title: "Bio"
-    url: ./#Bio
+    url: /#Bio

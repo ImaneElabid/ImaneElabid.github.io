@@ -1,5 +1,14 @@
 main:
 
+  - title: 'Towards Blockchain Systems for Resource-Constrained Devices: Scalability and Data Redaction'
+    authors: <strong>Imane El Abid</strong>
+    conference_short: Ph.D.
+    conference: PhD Dissertation, Mohammed VI Polytechnic University (UM6P), College of Computing, 2026.
+    pdf: /assets/files/dissertation.pdf
+    page:
+    title_url: /dissertation/
+    image: /assets/img/dissertation-thumbnail.png
+
   - title: 'Beyond Immutability: A Comprehensive Review of Redactable Blockchain Systems'
     authors: <strong>Imane El Abid</strong>, Karim Boubouh, Yahya Benkaouz
     conference_short: ComNets
